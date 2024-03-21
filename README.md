@@ -69,7 +69,7 @@ IMPORTANT: We use Newtonsoft Json Unity Package in our plugin, so if you use an 
 
 More info - https://www.vodoleystudio.com/software/randomelementssystem
 
-Assets Store - https://assetstore.unity.com/preview/273727/883158
+Assets Store - https://assetstore.unity.com/packages/tools/game-toolkits/random-elements-system-flexible-weighted-ranged-randomizer-273727
 
 
 🧡 ENJOY
