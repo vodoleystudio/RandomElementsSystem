@@ -68,6 +68,7 @@ Random Enum Property
 IMPORTANT: We use Newtonsoft Json Unity Package in our plugin, so if you use an old version of Unity you will required to integrate the Newtonsoft Json manually into your project.
 
 <br>More info - https://www.vodoleystudio.com/software/randomelementssystem
+
 <br>Assets Store - https://assetstore.unity.com/packages/tools/game-toolkits/random-elements-system-flexible-weighted-ranged-randomizer-273727
 
 
