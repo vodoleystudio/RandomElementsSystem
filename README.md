@@ -72,4 +72,9 @@ More info - https://www.vodoleystudio.com/software/randomelementssystem
 Assets Store - https://assetstore.unity.com/packages/tools/game-toolkits/random-elements-system-flexible-weighted-ranged-randomizer-273727
 
 
-🧡 ENJOY
+Find my work useful?
+Your support helps me continue creating and maintaining free tools like this one.
+If you'd like to help, you can support my development here - https://buymeacoffee.com/vodoleystudio
+
+Created with 🧡 by https://www.vodoleystudio.com
+ENJOY!
